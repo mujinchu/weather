@@ -1,0 +1,32 @@
+[
+    {
+        "name": "北京",
+        "abcode": "110100",
+        "citycode": "010"
+    },
+    {
+        "name": "上海",
+        "abcode": "310100",
+        "citycode": "021"
+    },
+    {
+        "name": "广州",
+        "abcode": "440100",
+        "citycode": "020"
+    },
+    {
+        "name": "深圳",
+        "abcode": "440300",
+        "citycode": "0755"
+    },
+    {
+        "name": "苏州",
+        "abcode": "320500",
+        "citycode": "0512"
+    },
+    {
+        "name": "沈阳",
+        "abcode": "210100",
+        "citycode": "024"
+    },
+]
